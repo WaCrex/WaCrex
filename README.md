@@ -1,5 +1,6 @@
-### Hi there 👋
-
+[![GitHub Follow](https://img.shields.io/github/followers/WaCrex?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/WaCrex?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=WaCrex)](https://github.com/WaCrex)
+[![GitHub stars](https://img.shields.io/github/stars/WaCrex)](https://github.com/WaCrex)
 <!--
 **WaCrex/WaCrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
